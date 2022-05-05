@@ -7,7 +7,7 @@
 [![GitHub Juan Gabriel Colorado Restrepo](https://img.shields.io/github/followers/gabocr90?label=follow&style=social)](https://github.com/gabocr90)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/2GrNmaGsI2ybu/giphy.gif" width="50"> A little more about me...  
 
 ```python
 
