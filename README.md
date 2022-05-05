@@ -1,6 +1,6 @@
 <h2> Hi, I'm Juan Gabriel! <img src="https://media.giphy.com/media/yrL6AAyhoUj84NkKXd/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ny7UCd6JETnmE/giphy.gif" width="230">
-<p><em>Statistician at <a href="http://www.unb.br">Universidad de Antioquia</a><img src="https://media.giphy.com/media/1oBwBVLGoLteCP2kyD/giphy.gif" width="30"></br>Data Visualization Analyst at <a href="https://emtelco.com.co/">Emtelco</a><img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" width="30"> 
+<p><em>Statistician at <a href="https://www.udea.edu.co/">Universidad de Antioquia</a><img src="https://media.giphy.com/media/1oBwBVLGoLteCP2kyD/giphy.gif" width="30"></br>Data Visualization Analyst at <a href="https://emtelco.com.co/">Emtelco</a><img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: Juan Gabriel Colorado Restrepo](https://img.shields.io/badge/-JuanGabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-gabriel-colorado-restrepo-aaa053bb/)](https://www.linkedin.com/in/juan-gabriel-colorado-restrepo-aaa053bb/)
