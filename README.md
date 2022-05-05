@@ -1,6 +1,6 @@
-<h2> Hi, I'm Juan Gabriel! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Statistician at <a href="http://www.unb.br">Universidad de Antioquia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Data Visualization Analyst at <a href="https://emtelco.com.co/">Emtelco</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<h2> Hi, I'm Juan Gabriel! <img src="https://media.giphy.com/media/yrL6AAyhoUj84NkKXd/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ny7UCd6JETnmE/giphy.gif" width="230">
+<p><em>Statistician at <a href="http://www.unb.br">Universidad de Antioquia</a><img src="https://media.giphy.com/media/1oBwBVLGoLteCP2kyD/giphy.gif" width="30"></br>Data Visualization Analyst at <a href="https://emtelco.com.co/">Emtelco</a><img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: Juan Gabriel Colorado Restrepo](https://img.shields.io/badge/-JuanGabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-gabriel-colorado-restrepo-aaa053bb/)](https://www.linkedin.com/in/juan-gabriel-colorado-restrepo-aaa053bb/)
@@ -29,10 +29,10 @@ class Bio(metaclass=Meta):
 
 
 class Stack(metaclass=Meta):
-    languages   : Tuple[str, ...] = ("Python", "R", "Shell")
+    languages   : Tuple[str, ...] = ("Python", "R")
     databases   : Tuple[str, ...] = ("MySQL", "PostgreSQL")
     misc        : Tuple[str, ...] = ("Excel", "Power BI")
-    ongoing     : Tuple[str, ...] = ("Javascript", "HTML5", "CSS", "Django")
+    ongoing     : Tuple[str, ...] = ("Javascript", "HTML", "CSS", "Django")
 
 ```
 
